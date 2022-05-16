@@ -1,0 +1,49 @@
+body{
+    font-family:"Arial";
+    background: linear-gradient(#10b483, #03baec);
+}
+
+ol > li{
+    font-size: 24px;
+    color: red;
+}
+
+p{
+    font-size: 20px;
+    color: #e7e7e7;
+}
+
+ol > li > p{
+    font-size: 25px;
+    color:white;
+}
+
+.punto1{
+    float: left;
+    margin-right: 20px;
+    margin-top: 15px;
+    border-radius: 7px;
+}
+
+.punto4{
+    float:right;
+    margin-right: 20px;
+    margin-top: 10px;
+    border-radius: 7px;
+    margin-left: 15px;
+}
+
+.punto_6_2{
+    position:relative;
+    margin-bottom: 10px;
+}
+
+h1, h2{
+    text-align: center;
+    font-size: 35px;
+    color: #F1ECC3;
+}
+
+h2{
+    font-size:30px ;
+}
